@@ -11,4 +11,4 @@ class Solution:
             num //= 10
 
 
-        return n % (sum_digit + product_digit) == 0
+        return n%(sum_digit + product_digit) == 0
