@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/sarthakbaravkar881-collab/LEETCODE/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1280-students-and-examinations](https://github.com/sarthakbaravkar881-collab/LEETCODE/tree/master/1280-students-and-examinations) |
 ## Math
 |  |
